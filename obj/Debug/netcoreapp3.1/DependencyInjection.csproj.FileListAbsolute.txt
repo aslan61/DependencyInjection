@@ -1,0 +1,16 @@
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.exe
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.deps.json
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.runtimeconfig.json
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.runtimeconfig.dev.json
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.dll
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.pdb
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.csproj.AssemblyReference.cache
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.AssemblyInfoInputs.cache
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.AssemblyInfo.cs
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.csproj.CoreCompileInputs.cache
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.dll
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.pdb
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.genruntimeconfig.cache
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\DependencyInjection\bin\Debug\netcoreapp3.1\Ninject.dll
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.csproj.CopyComplete
